@@ -1,0 +1,13 @@
+# Sample word list for the German Anki card generator.
+# One word per line. Lines starting with '#' are comments.
+# Pin a part of speech with `word:pos` (e.g. schnell:adj).
+Haus
+schreiben
+lesen
+sprechen
+kommen
+Apfel
+Käse
+laufen
+schnell:adj
+gefallen

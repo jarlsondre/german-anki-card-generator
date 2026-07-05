@@ -1,0 +1,16 @@
+# Large data files — regenerated locally via download_dictionary.py + build_index.py
+kaikki.org-dictionary-German-words.jsonl
+dictionary.db
+
+# Generated Anki decks
+*.apkg
+
+# Personal word lists (keep sample.txt committed)
+word_lists/
+
+# Python / tooling
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
