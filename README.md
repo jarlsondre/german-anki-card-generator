@@ -9,7 +9,7 @@ Here's the back of the card generated for `laufen` (from `sample.txt`) — the
 headword and IPA, primary and alternate senses, the verb's principal parts, and
 a few example sentences with translations:
 
-![The back of the generated Anki card for the German verb "laufen"](assets/sample-card.jpg)
+![The back of the generated Anki card for the German verb "laufen"](assets/sample-card.png)
 
 ## Setup
 
