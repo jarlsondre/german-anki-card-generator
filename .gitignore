@@ -8,6 +8,9 @@ dictionary.db
 # Personal word lists (keep sample.txt committed)
 word_lists/
 
+# macOS
+.DS_Store
+
 # Python / tooling
 .venv/
 __pycache__/

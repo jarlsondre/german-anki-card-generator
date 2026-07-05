@@ -1,9 +1,15 @@
 # German Anki Card Generator
 
 Generate rich [Anki](https://apps.ankiweb.net/) flashcards for German vocabulary
-from a [kaikki.org](https://kaikki.org/) Wiktionary dump. Give it a list of
-words and it produces an `.apkg` deck with definitions, inflections, examples,
-and gender/POS info pulled from Wiktionary.
+from a [kaikki.org](https://kaikki.org/) Wiktionary dump.
+
+**Just give it the bare word** — a single stem like `laufen` or `Haus`, one per
+line — and it fills in everything else automatically: the English translations,
+every inflected form (verb tenses, plurals, comparatives), the noun's gender,
+IPA pronunciation, and example sentences, all pulled from Wiktionary. You can
+even hand it an inflected form like `läuft` and it resolves back to the lemma
+(`laufen`) for you. No hunting through a dictionary, no typing out conjugation
+tables by hand.
 
 Here's the back of the card generated for `laufen` (from `sample.txt`) — the
 headword and IPA, primary and alternate senses, the verb's principal parts, and
