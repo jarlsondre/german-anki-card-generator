@@ -5,6 +5,12 @@ from a [kaikki.org](https://kaikki.org/) Wiktionary dump. Give it a list of
 words and it produces an `.apkg` deck with definitions, inflections, examples,
 and gender/POS info pulled from Wiktionary.
 
+Here's the back of the card generated for `laufen` (from `sample.txt`) — the
+headword and IPA, primary and alternate senses, the verb's principal parts, and
+a few example sentences with translations:
+
+![The back of the generated Anki card for the German verb "laufen"](assets/sample-card.jpg)
+
 ## Setup
 
 Requires Python 3.11 and [uv](https://docs.astral.sh/uv/).
